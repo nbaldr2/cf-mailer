@@ -1,0 +1,11 @@
+/vendor/
+.env
+/logs/*.log
+*.cache
+.phpunit.result.cache
+.phpunit.cache/
+composer.lock
+.idea/
+.vscode/
+*.swp
+*.swo
